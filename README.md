@@ -1,6 +1,6 @@
 # 🚆 Railway Reservation System
 
-A console-based Railway Reservation System developed in **C Programming Language**. This project allows users to book train tickets, search reservations, cancel bookings, and manage passenger records using file handling.
+A console-based Railway Reservation System developed in **C Programming Language**. This project allows users to book train tickets, search reservations, cancel bookings and manage passenger records using file handling.
 
 ---
 
