@@ -179,5 +179,8 @@ MCA Students, IIIT Vadodara
 
 ---
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
-GitHub Profile: https://github.com/shanusingh-ai
+## 🌟 Support
+
+⭐ If you found this project useful, consider giving it a star.
+
+🔗 GitHub Profile: https://github.com/shanusingh-ai
